@@ -1,0 +1,60 @@
+Likith Venkat Pavan Kumar Sirigiri
+DEVOPS ENGINEER  |  AWS · Kubernetes · Terraform · CI/CD · Team Lead
+sirigirilikith1796@gmail.com  |  +91-9912791165  |  Bangalore, India  |  Open to Relocation: Japan / Global  |  Visa Sponsorship Required
+PROFESSIONAL SUMMARY
+DevOps Engineer and Team Lead with 4+ years of hands-on experience architecting cloud-native infrastructure, leading cross-functional teams, and delivering measurable cost and reliability improvements for fintech and SaaS platforms. Led a 20-member DevOps and L1 team, designed full observability stacks from scratch, built internal tooling entirely on open-source technologies, and reduced cloud infrastructure costs by over 40%. Experienced in client communications, DR compliance drills, and end-to-end product delivery. Comfortable working in English-speaking, globally distributed engineering teams.
+TECHNICAL SKILLS
+Cloud (AWS): EC2, EKS, S3, RDS, CloudWatch, IAM, VPC, Route53, CloudFront, Lambda
+Cloud (Azure): Virtual Machines, Resource Groups, Cost Management, Subscription Management
+Infrastructure as Code: Terraform, Ansible, CloudFormation
+Containers & Orchestration: Docker, Kubernetes, Helm, ArgoCD, EKS
+CI/CD: Jenkins, GitHub Actions, Agent-based Zero-Downtime Deployment Pipelines
+Monitoring & Observability: Prometheus, Grafana, ELK Stack, MongoDB Exporter, RabbitMQ Exporter, Keycloak Exporter
+Databases & Messaging: MongoDB, RabbitMQ, PostgreSQL
+Scripting & OS: Bash, Python, Linux (Ubuntu / CentOS)
+PROFESSIONAL EXPERIENCE
+DevOps & L1 Team Lead  |  ezee.ai	Dec 2024 – Present
+Fintech SaaS Platform (acquiring entity: Veefin Solutions)  ·  Bangalore, India
+Led and mentored a 20-member cross-functional DevOps and L1 team, overseeing daily operations, incident resolution, and release delivery across multiple enterprise client environments
+Designed and implemented a full observability stack using Prometheus and Grafana with custom exporters (MongoDB, RabbitMQ, Keycloak), enabling proactive detection of infrastructure and API issues and directly improving client SLA adherence
+Built Mongo Explorer from scratch: a custom internal tool replacing NoSQL Booster, featuring MFA login, maker-checker approval workflow (Project Manager approval for every production change), 20-minute inactivity auto-logout, and expiry-based user accounts — eliminating audit gaps and unauthorised production access
+Developed a custom agent-based Deployment Dashboard enabling zero-downtime UI and API deployments, reducing average deployment time from 20–30 minutes to under 3 minutes
+Designed an Azure Cost Intelligence dashboard: analysed live resource utilisation per subscription and resource group over 15-day windows, flagged rightsizing opportunities, and automated non-prod environment shutdown/startup post business hours — achieving 40%+ total cloud cost reduction
+Represented DevOps in client-facing communications, participated in business negotiations, client onboarding, and product delivery sign-off; conducted DR (Disaster Recovery) drills in line with regulatory compliance requirements
+All internal tooling built entirely on open-source technologies — zero additional licensing cost to the business
+DevOps Engineer  |  C R Infotech	Aug 2023 – Nov 2024
+IT Services Company  ·  Bangalore, India
+Designed and maintained CI/CD pipelines using Jenkins and GitHub Actions across dev, staging, and production environments, reducing release cycle time and deployment errors
+Managed AWS infrastructure (EC2, EKS, S3, RDS, VPC, IAM) using Terraform and Ansible, ensuring consistent and repeatable provisioning across environments
+Containerised application workloads using Docker and Kubernetes (EKS), supporting horizontal scaling and improving deployment consistency for production services
+Implemented security compliance controls, disaster recovery measures, and automated alerting using Prometheus and Grafana
+Collaborated with QA and development teams to integrate automated testing into CI pipelines, improving release quality and reducing post-deployment incidents
+Documented infrastructure configurations, runbooks, and incident response procedures to support team knowledge sharing and operational continuity
+DevOps Engineer (Consultant)  |  Avance Consulting Services Pvt Ltd	Jul 2022 – Aug 2023
+Consulting engagement · Deployed to client: Wisestep (Recruitment Technology SaaS Platform)
+Managed and optimised CI/CD pipelines on Jenkins, standardising pipeline structure and improving deployment reliability across development and production environments
+Implemented infrastructure as code using Terraform and CloudFormation for AWS provisioning, reducing manual setup time and eliminating configuration drift
+Monitored and troubleshot production environments; participated in on-call rotation to resolve incidents and maintain high system availability
+Implemented security best practices including IAM policies, secrets management, and environment segregation across the full deployment pipeline
+Collaborated with cross-functional teams to improve system performance, deployment reliability, and overall release velocity
+DevOps Engineer  |  Unilax Consumer Solutions Pvt Ltd	Jan 2022 – Jun 2022
+Consumer Technology Startup  ·  Bangalore, India
+Built and maintained CI/CD pipelines using Jenkins; containerised applications with Docker, reducing environment inconsistency issues across development and production
+Automated infrastructure provisioning using Terraform and Ansible, improving deployment speed and repeatability
+Troubleshot and resolved production incidents; supported development teams on DevOps best practices and deployment workflows
+Jr. DevOps Engineer  |  C360 Software	Jul 2021 – Jan 2022
+Software Products Company  ·  First Professional Role
+Monitored and maintained infrastructure to ensure optimal system performance and availability
+Assisted senior DevOps engineers in implementing automation tools and deployment pipeline improvements
+Collaborated with development and operations teams to troubleshoot and resolve technical issues; participated in software deployment planning and execution
+EDUCATION
+Bachelor of Technology (B.Tech) – Electrical & Electronics Engineering
+Narayana Engineering College, Nellore  |  Jawaharlal Nehru Technological University (JNTU), Anantapuram  |  2016 – 2019
+Diploma – Electrical & Electronics Engineering
+Government Polytechnic College, Nellore  |  2012 – 2016  (Lateral entry pathway to B.Tech)
+Career note: Apr 2019 – Jul 2021 — Career transition period impacted by COVID-19 pandemic. Used this time for self-directed study in Linux, cloud fundamentals, and networking, leading to transition into DevOps.
+CERTIFICATIONS & LEARNING
+AWS Certified Solutions Architect – Associate (In Progress · Target: Q3 2026)
+Certified Kubernetes Administrator (CKA) – Planned Q4 2026
+LANGUAGES
+English – Professional   |   Telugu – Native   |   Hindi – Conversational   |   Japanese – Beginner (actively learning)
