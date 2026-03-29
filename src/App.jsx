@@ -29,7 +29,7 @@ const profile = {
   fullName: 'Likith Venkat Pavan Kumar Sirigiri',
   email: 'sirigirilikith1796@gmail.com',
   phone: '+91-9912791165',
-  resume: '/DevOps Engineer.pdf',
+  resume: '/Likith_Sirigiri_DevOps_Resume_v2.pdf',
   github: 'https://github.com/Likith2919',
   linkedin: 'https://linkedin.com/in/likithsirigiri',
   location: 'Bangalore, India'
